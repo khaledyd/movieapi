@@ -1,0 +1,19 @@
+.movies {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	margin-right: 20%;
+}
+
+.card {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	border-radius: 2px;
+	border-style: solid;
+	border-color: black;
+}
+
+.cards {
+	display: flex;
+}

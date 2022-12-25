@@ -1,7 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+
 /* -------------------------------- API KEY ------------------------------- */
 let APIKEY = "17b1267d22c03010b3c8a1656532005e";
 
